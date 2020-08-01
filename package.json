@@ -1,13 +1,14 @@
 {
   "name": "jest-discordjs-mocks",
   "version": "1.0.0",
+  "url": "https://github.com/Chris-Bitler/jest-discordjs-mocks",,
   "description": "Mocks for discord.js jest testing in typescript",
   "main": "dist/index.js",
   "types": "dist/types.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": ["discord.js", "discord.js mocks", "mocks", "discord.js jest", "jest"],
   "author": "Chris Bitler",
   "license": "MIT",
   "dependencies": {
