@@ -1,7 +1,7 @@
 {
   "name": "jest-discordjs-mocks",
-  "version": "1.0.0",
-  "url": "https://github.com/Chris-Bitler/jest-discordjs-mocks",,
+  "version": "1.0.1",
+  "url": "https://github.com/Chris-Bitler/jest-discordjs-mocks",
   "description": "Mocks for discord.js jest testing in typescript",
   "main": "dist/index.js",
   "types": "dist/types.d.ts",
